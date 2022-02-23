@@ -1,0 +1,242 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>At the Court at Whitehall the third of October, 1676 present the Kings Most Excellent Majesty ...</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39430</idno>
+            <idno type="STC">Wing E840</idno>
+            <idno type="STC">ESTC R27329</idno>
+            <idno type="EEBO-CITATION">09811759</idno>
+            <idno type="OCLC">ocm 09811759</idno>
+            <idno type="VID">44151</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39430)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44151)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1355:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>At the Court at Whitehall the third of October, 1676 present the Kings Most Excellent Majesty ...</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+                  <author>England and Wales. Privy Council.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the assigns of John Bill and Christopher Barker,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>An order forbidding presence in the Queen's chapel or any foreign embassy for Catholic mass.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Great Britain.</term>
+               <term>Catholics --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="order">
+            <pb n="1" facs="tcp:44151:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 31 -->
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <head>C R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>
+            </head>
+            <opener>
+               <dateline>At the Court at <hi>Whitehall</hi> 
+                  <date>the Third of <hi>October,</hi> 1676.</date>
+               </dateline>
+            </opener>
+            <p>
+               <list>
+                  <head>Preſent</head>
+                  <item>
+                     <hi>The Kings moſt Excellent Majeſty</hi>
+                  </item>
+                  <item>
+                     <hi>His Highneſs Prince <hi>Rupert</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Lord Chancellor</hi>
+                  </item>
+                  <item>
+                     <hi>Lord Treaſurer</hi>
+                  </item>
+                  <item>
+                     <hi>Duke of <hi>Monmouth</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Duke of <hi>Lauderdale</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Earl of <hi>Oſſery</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Earl of <hi>Sunderland</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Earl of <hi>Peterborow</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Earl of <hi>Bath</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Earl of <hi>Craven</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Earl of <hi>Carbery</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Viſcount <hi>Fauconberg</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Viſcount <hi>Newport</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Lord Biſhop of <hi>London</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Mr. Secretary <hi>Coventry</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Mr. Secretary <hi>Williamſon</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Mr. Chancellor of the Exchequer</hi>
+                  </item>
+                  <item>
+                     <hi>Maſter of the Ordnance.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas His Majeſty and this Boord are informed of the bold and open repair made to ſeveral Places, and eſpe<g ref="char:EOLhyphen"/>cially to Her Majeſties Chap<g ref="char:EOLhyphen"/>pel at <hi>Somerſet-Houſe,</hi> and the Houſes of Foreign Ambaſſa<g ref="char:EOLhyphen"/>dors, Agents, and other Publick Miniſters, for the hearing of Maſs, and other Worſhip
+<pb n="2" facs="tcp:44151:2"/>
+               <!-- PDF PAGE 32 -->and Service of the <hi>Romiſh</hi> Church; and that the ſaid Ambaſſadors, Agents and Mini<g ref="char:EOLhyphen"/>ſters, do permit and ſuffer both daily Maſſes to be ſaid, and other Worſhip and Service to be performed in their Houſes, in a publick manner, by <hi>Engliſh, Scotiſh,</hi> and <hi>Iriſh</hi> Prieſts, and alſo Sermons in <hi>Engliſh</hi> to be Preached in their ſaid Houſes and Chappels, which the Laws and Statutes of this Kingdom do ex<g ref="char:EOLhyphen"/>preſly forbid His ſubjects to frequent or do; His Majeſty taking the ſame into ſerious Conſideration, and being ſenſible thereof, as a matter highly tending to the violation of the Laws of the Realm, and the ſcandal of Religion and Government, and breach of good Order, and in His Princely Wiſdom weighing the dangerous Conſequence there<g ref="char:EOLhyphen"/>of, is Reſolved to take ſtrict Order for the ſtop<g ref="char:EOLhyphen"/>ping this Evil before it ſpread any further.</p>
+            <p>His Majeſty therefore, by the Advice of his Council, doth hereby forbid any of His ſaid Subjects hereafter to offend in the like kind, at their utmoſt perils; And ſtraitly Commands, That no others preſume to Re<g ref="char:EOLhyphen"/>ſort to Her Majeſties Chappel, but ſuch as are Her Majeſties Domeſtick Servants. And to the end this Proviſion and Order may be the more effectual, His Majeſty doth Com<g ref="char:EOLhyphen"/>mand, That <gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>a ſmuch as concerneth the re<g ref="char:EOLhyphen"/>mi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to the Houſes of forreign Ambaſſa<g ref="char:EOLhyphen"/>dors, Agents and Miniſters, at the time of Maſs, or other <hi>Romiſh</hi> Worſhip or Service, ſome Meſſengers of the Chamber, or other Officers or perſons fit for that Service, be appointed to Watch at the ſever<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Paſſages to their, Houſes, and witho<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ring in<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="3" facs="tcp:44151:2"/>
+               <!-- PDF PAGE 32 -->the ſaid Houſes, or invading the Freedom and Priviledges belonging unto them, ob<g ref="char:EOLhyphen"/>ſerve ſuch perſons as go thither at ſuch times, without Stopping or Queſtioning any as they go thither, but at their coming from thence, they are to Apprehend and bring the ſaid perſons to the Boord, and ſuch as they cannot Apprehend, to bring their Names. And that the Ambaſſadors and other Forreign Miniſters may have no cauſe to Complain for this Proceeding, as if there were any Intention to wrong or diſreſpect them, His Majeſty doth likewiſe Order, for the preventing of any ſuch miſtaking and ſiniſter interpretation, That His principal Secretaries of State (according unto His Majeſties expreſs Commands now given unto them) ſhould be hereby authorized and required forthwith to repair to the ſaid Am<g ref="char:EOLhyphen"/>baſſadors, Agents, and other Forreign Mi<g ref="char:EOLhyphen"/>niſters, to make known unto them His Majeſties Pleaſure concerning the ſame; And that as His Majeſty is careful not to have any the juſt Priviledges and Immu<g ref="char:EOLhyphen"/>nities of the ſaid Ambaſſadors, Agents, or Miniſters, to be in any degreé infringed or violated, ſo in the aforeſaid Particulars of permitting Maſſes or other Service to be ſaid by any of the ſaid Prieſts, or Ser<g ref="char:EOLhyphen"/>mons to be Preached in <hi>Engliſh</hi> in their Houſes or Chappels (things never heard of or attempted by any precedent Ambaſſadors or Agents here) or in ſuffering His Sub<g ref="char:EOLhyphen"/>jects to reſort unto them, His Majeſty is no leſs careful of preſerving His Laws, and conteining His Subjects in their due obedi<g ref="char:EOLhyphen"/>ence
+<pb n="4" facs="tcp:44151:3"/>
+               <!-- PDF PAGE 33 -->to the ſame; and doth therefore expect the ſaid Ambaſſadors, Agents, and Mini<g ref="char:EOLhyphen"/>ſters compliance accordingly. And hereof His Majeſty thinks fit that Notice ſhould be firſt given to the ſaid Publick Miniſters (ther rather to teſtifie His Reſpects unto them) before the Stricter Courſe His Ma<g ref="char:EOLhyphen"/>jeſty hath Reſolved, be taken with His own Subjects, by a Vigorous Proſecution, and infliction of Penalties and Puniſh<g ref="char:EOLhyphen"/>ments for the preventing and repreſſing the like hereafter.</p>
+            <p>And it is likewiſe Ordered, That the Meſ<g ref="char:EOLhyphen"/>ſengers of the Chamber, or others to be im<g ref="char:EOLhyphen"/>ployed in the Service before ſpecified, ſhall be appointed, and receive their Charge from the Lord Archbiſhop of <hi>Canterbury,</hi> the Lord Biſhop of <hi>London,</hi> and the ſaid Secretaries, or ſome of them, who are to take ſpecial care to ſee this put in due and effectual Execu<g ref="char:EOLhyphen"/>tion.</p>
+            <closer>
+               <signed>EDW. WALKER.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by the Aſſigns of <hi>John Bill</hi> and <hi>Christopher Barker,</hi> Printers to the Kings moſt Excellent Majeſty. 1676.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
